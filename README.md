@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Silviu Ghimpău
+# 👋 Hi, I'm Silviu Ionel Ghimpău
 
 💻 **Junior System & Network Administrator in training**  
 Focused on **Cisco | Linux | PowerShell | Windows Server | Python**  
