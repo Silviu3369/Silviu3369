@@ -9,7 +9,7 @@ Currently building my **Blaze Enterprise Network Project** and automation script
 ## 🚀 About Me
 - 🎓 IT student (CCNA, DevNet, Linux, PowerShell, Windows Server 2022)  
 - 🔧 Passionate about networking, system administration, and automation  
-- 🌍 Based in Belgium, open for international collaboration  
+- 🌍 Based in Belgium, seeking opportunities in System & Network Administration  
 - 🎯 Goal: Start my career as a **System & Network Administrator**  
 
 ---
