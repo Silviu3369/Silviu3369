@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Silviu Ghimpău
 
-<!--
-**Silviu3369/Silviu3369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Junior System & Network Administrator in training**  
+Focused on **Cisco | Linux | PowerShell | Windows Server | Python**  
+Currently building my **Blaze Enterprise Network Project** and automation scripts.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎓 IT student (CCNA, DevNet, Linux, PowerShell, Windows Server 2022)  
+- 🔧 Passionate about networking, system administration, and automation  
+- 🌍 Based in Belgium, open for international collaboration  
+- 🎯 Goal: Start my career as a **System & Network Administrator**  
+
+---
+
+## 🛠️ Skills
+![Cisco](https://img.shields.io/badge/Cisco-Networking-blue?logo=cisco&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Admin-orange?logo=linux&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-Scripting-blue?logo=powershell&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows%20Server-2022-0078D6?logo=windows&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Learning-yellow?logo=python&logoColor=white)
+
+---
+
+## 📂 Featured Projects
+- 🔹 [Cisco-Blaze-project](https://github.com/Silviu3369/Cisco-Blaze-project) – Enterprise network lab (VLAN, OSPF, HSRP, ASA Firewall)  
+- 🔹 [Blaze-AD-Automation](https://github.com/Silviu3369/Blaze-AD-Automation) – PowerShell automation for Active Directory  
+
+---
+
+## 📫 Contact
+- ✉️ Email: [ghimpausilviu@gmail.com](mailto:ghimpausilviu@gmail.com)  
+- 💼 LinkedIn: [Silviu Ghimpău](https://www.linkedin.com/in/silviu-ghimpau)  
+
+---
+⭐️ From [Silviu3369](https://github.com/Silviu3369)
