@@ -7,7 +7,7 @@ Focused on **Cisco | Linux | PowerShell | Windows Server | Python**
 ---
 
 ## 🚀 About Me
-- 🎓 IT student (CCNA, DevNet, Linux, PowerShell, Windows Server 2022)  
+- 🎓 Graduate in System & Network Administration (Cisco, DevNet, Linux, PowerShell, Windows Server 2022)  
 - 🔧 Passionate about networking, system administration, and automation  
 - 🌍 Based in Belgium, seeking opportunities in System & Network Administration  
 - 🎯 Goal: Start my career as a **System & Network Administrator**  
