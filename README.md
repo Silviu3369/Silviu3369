@@ -27,6 +27,8 @@ Focused on **Cisco | Linux | PowerShell | Windows Server | Python**
 -  [Cisco-Blaze-project](https://github.com/Silviu3369/Cisco-Blaze-project) – Enterprise network lab (VLAN, OSPF, HSRP, ASA Firewall  
 -  [Blaze-AD-Automation](https://github.com/Silviu3369/Blaze-AD-Automation) – PowerShell automation for Active Directory
 -  [HQ-Branch-Secure-Network](https://github.com/Silviu3369/HQ-Branch-Secure-Network) – Full enterprise HQ–Branch network design with redundancy, DMZ, and advanced security hardening (ASA, OSPF, HSRP, IPSec VPN)
+-  [Corporate-Multi-Zone-Network](https://github.com/Silviu3369/Corporate-Multi-Zone-Network) – Full enterprise-grade multi-zone network design with dual-hub DMVPN, ASA firewall, OSPF, and HSRP redundancy
+
 
 ---
 
