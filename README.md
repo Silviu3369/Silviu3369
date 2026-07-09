@@ -1,77 +1,90 @@
 # Ionel-Silviu Ghimpău
 
-**IT Support & System Administration** — Microsoft 365 · Entra ID · Intune · Windows Server · Networking · PowerShell
+**IT Support · System Administration · Networking · Automation**
 
-Hands-on experience from an IT helpdesk internship in Belgium: user and group management in Entra ID, device compliance in Intune, Microsoft 365 and SharePoint administration, and PowerShell automation. Backed by a portfolio of CCNA-level enterprise networking labs and Windows support tooling built in .NET.
+I am focused on practical IT infrastructure, system administration, network administration, Microsoft 365, Windows Server, PowerShell automation, Linux, and technical troubleshooting.
+
+I like working in a structured way: understanding the problem, testing carefully, documenting clearly, and building practical solutions that can be used in real IT environments.
 
 ---
 
-## Skills
+## About Me
 
-**Microsoft Cloud** — Entra ID, Intune, Microsoft 365, SharePoint, Exchange Online, Azure (AZ-900 in progress)
-**Infrastructure** — Windows Server 2022, Active Directory, DNS, DHCP, Group Policy, NTFS permissions
-**Networking** — Cisco (CCNA): VLANs, OSPF, HSRP, EtherChannel, ASA firewalls, NAT, ACLs, IPsec VPN
-**Automation & Development** — PowerShell, Microsoft Graph, Python, .NET (WPF), Git
+I am based in Belgium and I am building my path in IT through practical work, technical discipline, and continuous learning.
+
+My main interests are IT support, system administration, network administration, infrastructure troubleshooting, and automation. I enjoy working with real technical scenarios where I can understand how systems work, solve problems step by step, and improve the result.
+
+---
+
+## What I Do
+
+I work on projects related to Windows administration, Microsoft 365, Cisco networking, Active Directory, PowerShell automation, Linux, and Windows support tools.
+
+My focus is not only on learning theory, but also on applying it through practical labs, documentation, automation scripts, and tools that support real IT workflows.
+
+---
+
+## What I Studied
+
+I studied System and Network Administration, with focus on:
+
+- Cisco networking
+- Windows Server 2022
+- Active Directory
+- DNS, DHCP, and Group Policy
+- Linux administration
+- PowerShell scripting
+- Cisco DevNet fundamentals
+- Python basics
+- IT infrastructure documentation
+- Troubleshooting methodology
+
+This gave me a solid technical foundation in both networking and system administration, which I continue to develop through hands-on projects.
+
+---
+
+## Technologies
 
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-Administration-D83B01?logo=microsoft&logoColor=white)
 ![Entra ID](https://img.shields.io/badge/Entra%20ID-Identity-0078D4?logo=microsoft&logoColor=white)
 ![Intune](https://img.shields.io/badge/Intune-Device%20Management-0078D4?logo=microsoft&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-Automation-5391FE?logo=powershell&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-2022-0078D6?logo=windows&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-CCNA-blue?logo=cisco&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-Administration-0078D6)
+![PowerShell](https://img.shields.io/badge/PowerShell-Automation-5391FE?logo=powershell&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-Networking-blue?logo=cisco&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-Administration-FCC624?logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-Scripting-3776AB?logo=python&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-WPF-512BD4?logo=dotnet&logoColor=white)
 
 ---
 
 ## Projects
 
-### Microsoft 365 & Automation
+### Windows Support Tools
 
-| Project | Description |
-|---|---|
-| **TenantLens** *(in development)* | PowerShell / Microsoft Graph module that audits a Microsoft 365 tenant — users, licensing, MFA status, Entra ID configuration — and generates an HTML dashboard report. |
-| [Blaze-AD-Automation](https://github.com/Silviu3369/Blaze-AD-Automation) | PowerShell automation for full Active Directory provisioning: OU structure, users, RBAC group model (GG→DL), shares, NTFS permissions, and CSV audit reports. |
-| [Windows-Server-2022](https://github.com/Silviu3369/Windows-Server-2022) | Windows Server 2022 labs and administration documentation with diagrams and structured notes. |
+- [ISG-Desk](https://github.com/Silviu3369/ISG-Desk)
+- [ISG-Printer](https://github.com/Silviu3369/ISG-Printer)
+- [ISG-Doctor](https://github.com/Silviu3369/ISG-Doctor)
 
-### IT Support Tools (.NET / WPF)
+### Networking Labs
 
-| Project | Description |
-|---|---|
-| [ISG-Desk](https://github.com/Silviu3369/ISG-Desk) | Windows helpdesk tool for local diagnostics, network checks, printer discovery, Wi-Fi analysis, and report export. |
-| [ISG-Printer](https://github.com/Silviu3369/ISG-Printer) | Technician tool for print server discovery, printer installation, queue diagnostics, and SNMP printer information. |
-| [ISG-Doctor](https://github.com/Silviu3369/ISG-Doctor) | Windows diagnostic and repair tool with health checks, guided repair actions, and HTML report export. |
+- [Cisco-Blaze-project](https://github.com/Silviu3369/Cisco-Blaze-project)
+- [HQ-Branch-Secure-Network](https://github.com/Silviu3369/HQ-Branch-Secure-Network)
+- [Corporate-Multi-Zone-Network](https://github.com/Silviu3369/Corporate-Multi-Zone-Network)
 
-### Networking Labs (Cisco)
+### Windows Server & Automation
 
-| Project | Description |
-|---|---|
-| [Cisco-Blaze-project](https://github.com/Silviu3369/Cisco-Blaze-project) | Enterprise network lab: VLANs, OSPF, HSRP, EtherChannel, ASA firewall, segmentation, and redundancy. |
-| [HQ-Branch-Secure-Network](https://github.com/Silviu3369/HQ-Branch-Secure-Network) | Secure HQ–branch design: ASA firewalls, OSPF, HSRP, DMZ, NAT, ACLs, DHCP, and IPsec site-to-site VPN. |
-| [Corporate-Multi-Zone-Network](https://github.com/Silviu3369/Corporate-Multi-Zone-Network) | Multi-zone enterprise design: dual-hub DMVPN, IPsec, ASA firewall, OSPF, HSRP, centralized services. |
+- [Windows-Server-2022](https://github.com/Silviu3369/Windows-Server-2022)
+- [Blaze-AD-Automation](https://github.com/Silviu3369/Blaze-AD-Automation)
+
+### Other Technical Work
+
+- [AION](https://github.com/Silviu3369/AION)
 
 ---
 
-## Training & Certifications
+## How I Work
 
-- VDAB — Systeem- en Netwerkbeheerder (system & network administration retraining, Belgium)
-- Cisco Networking Academy — CCNA (3 modules completed)
-- Windows Server 2022 Administration
-- PowerShell for System Administration
-- Linux Essentials
-- Microsoft AZ-900 — in progress
+I value clear structure, patience, accuracy, and practical problem solving.
 
----
-
-## Currently
-
-- Building **TenantLens** — Microsoft 365 tenant auditing with PowerShell and Microsoft Graph
-- Testing in a personal hybrid lab: Windows Server 2022 + Azure
-- Open to **IT Support / System Administration** roles in West Flanders (Roeselare–Kortrijk region)
-
----
-
-## Contact
-
-- Email: [ghimpausilviu@gmail.com](mailto:ghimpausilviu@gmail.com)
-- LinkedIn: [Silviu Ghimpău](https://www.linkedin.com/in/silviu-ghimpau)
-- GitHub: [Silviu3369](https://github.com/Silviu3369)
+My goal is to keep improving through hands-on practice, strong documentation, and projects that connect learning with real IT work.
